@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Hi, I'm Manish Hedau, a passionate learning new thing interested toword the AI.
+Hi, I'm Manish Hedau, a passionate learning new thing interested toword the **AI**.
 
 - 🔭 I’m currently working on my project [mysql repo](https://github.com/manishhedau/mysql)
 - 🌱 I’m currently learning Machine learning
