@@ -31,22 +31,23 @@ Hi, I'm Manish Hedau, a passionate learning new thing interested toword the AI.
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/machine_learning/machine_learning.png"></code>
 -->
 
-
+<!--  for previous theme =  radical 
+use this theme name instead of white-->
 
 
 <a href="https://github.com/manishhedau/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=manishhedau&show_icons=true&include_all_commits=true&theme=radical" alt="Manish github" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=manishhedau&show_icons=true&include_all_commits=true&theme=white" alt="Manish github" />
 </a>
 <a href="https://github.com/manishhedau/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=manishhedau&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=manishhedau&layout=compact&theme=white" />
 </a>
 
 <a href="https://github.com/manishhedau/portfolio">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=manishhedau&repo=portfolio&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=manishhedau&repo=portfolio&theme=white" />
 </a>    
 <a href="https://github.com/manishhedau/manishhedau.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=manishhedau&repo=manishhedau.github.io&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=manishhedau&repo=manishhedau.github.io&theme=white" />
 </a>
