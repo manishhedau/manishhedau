@@ -19,6 +19,7 @@ Hi, I'm Manish Hedau, a passionate learning new thing interested toword the **AI
 - 🔭 I’m currently working on my project [mysql repo](https://github.com/manishhedau/mysql)
 - 🌱 I’m currently learning Machine learning
 - 💬 Ask me about anything [here](https://github.com/manishhedau/manishhedau/issues)
+- 👉 For more information about me visit my portfolio [here](https://manishhedau.github.io/portfolio/)
 
 <!-- - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) -->
 
